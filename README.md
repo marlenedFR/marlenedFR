@@ -1,16 +1,23 @@
-### Hi there 👋
+:fr:
+### Bienvenue ! 👋
 
-<!--
-**marlenedFR/marlenedFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeuse orientée front-end, je vous présente ici mes projets.
 
-Here are some ideas to get you started:
+Autodidacte, j'ai commencé à coder à 14 ans. J'ai toujours été passionnée par la technologie et tout ce qui s'y rapporte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'ai ensuite exploré d'autres horizons, exercé de nombreux métiers, pour finalement revenir à mes premières amours.
+
+Je viens de terminer une formation et je vais en commencer une autre dans quelques mois, je n'ai donc qu'un seul projet à vous présenter pour le moment. Mais il y en aura d'autres car j'ai beaucoup, beaucoup d'idées ✨.
+
+------------------
+
+:us:
+### Welcome ! 👋
+
+As a front-end developer, I present to you my projects here.
+
+I've been self-taught in development since I was 14 years old. I've always been passionate about technology and everything related to it.
+
+I then explored various horizons, did many different jobs, and eventually came back to my first love.
+
+I have just finished one training program and will begin another in a few months, so I only have one project to show you for the moment. However, there will be more because I have lots and lots of ideas ✨
