@@ -5,7 +5,7 @@ Développeuse orientée front-end, je vous présente ici mes projets.
 
 Autodidacte, j'ai commencé à coder à 14 ans. J'ai toujours été passionnée par la technologie et tout ce qui s'y rapporte.
 
-J'ai ensuite exploré d'autres horizons, exercé de nombreux métiers, pour finalement revenir à mes premières amours.
+J'ai ensuite exploré d'autres horizons, exercé de nombreux métiers, pour finalement revenir à mes premiers amours.
 
 Je viens de terminer une formation et je vais en commencer une autre dans quelques mois, je n'ai donc qu'un seul projet à vous présenter pour le moment. Mais il y en aura d'autres car j'ai beaucoup, beaucoup d'idées ✨.
 
