@@ -7,7 +7,7 @@ Autodidacte, j'ai commencé à coder à 14 ans. J'ai toujours été passionnée 
 
 J'ai ensuite exploré d'autres horizons, exercé de nombreux métiers, pour finalement revenir à mes premiers amours.
 
-Je viens de terminer une formation et je vais en commencer une autre dans quelques mois, je n'ai donc qu'un seul projet à vous présenter pour le moment. Mais il y en aura d'autres car j'ai beaucoup, beaucoup d'idées ✨.
+Je viens de terminer une formation et je vais en commencer une autre dans quelques mois, je n'ai donc que deux projets à vous présenter pour le moment. Mais il y en aura d'autres car j'ai beaucoup, beaucoup d'idées ✨.
 
 ------------------
 
@@ -20,4 +20,4 @@ I've been self-taught in development since I was 14 years old. I've always been 
 
 I then explored various horizons, did many different jobs, and eventually came back to my first love.
 
-I have just finished one training program and will begin another in a few months, so I only have one project to show you for the moment. However, there will be more because I have lots and lots of ideas ✨.
+I have just finished one training program and will begin another in a few months, so I only have two projects to show you for the moment. However, there will be more because I have lots and lots of ideas ✨.
